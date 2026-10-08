@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Diego Nascimento 👋
 
-<!--
-**diegonxscimento/diegonxscimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Software Development & Cybersecurity
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student at Universidade Lusófona, currently completing my bachelor's degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about software development and interested in cybersecurity, with a focus on building practical projects and continuously improving my technical skills.
+
+🌍 Currently on Erasmus at Poznań University of Technology, Poland.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering student at Universidade Lusófona
+- 💻 Interested in Software Development & Cybersecurity
+- 🌍 Erasmus student at Poznań University of Technology
+- 🧠 Strong foundation in algorithms, data structures and problem-solving
+- 🚀 Interested in graduate and junior software engineering opportunities
+- 🌎 Open to opportunities in Portugal and internationally
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+Java · Kotlin · Python · JavaScript · C · C++ · SQL
+
+**Frameworks & Technologies**
+
+React · Django · Docker · Git · GitHub
+
+**Tools**
+
+VS Code · IntelliJ IDEA
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/diegonxscimento/)
